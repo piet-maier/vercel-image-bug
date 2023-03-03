@@ -9,3 +9,5 @@ Vercel Deployments:
 
 1. Deploy
 2. Images Throw 404 Error
+
+This repository is deployed to https://vercel-image-bug.vercel.app.
